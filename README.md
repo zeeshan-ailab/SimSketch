@@ -35,7 +35,7 @@ To ensure maximum security and avoid common GenAI vulnerabilities (addressing th
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/simsketch-stem.git
+   git clone https://github.com/zeeshan-ailab/SimSketch.git
    cd simsketch-stem
    ```
 
